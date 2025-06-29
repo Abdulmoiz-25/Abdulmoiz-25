@@ -12,7 +12,6 @@ I'm passionate about building intelligent, secure, and impactful software.
 With hands-on experience in machine learning, generative AI, and cloud-native development,  
 I enjoy combining cutting-edge tools with creative thinking to solve real-world problems.
 
----
 
 ## 🚀 What I’m Up To
 
