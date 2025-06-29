@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Student @ PAF-IAST, Haripur
 
-💻 Full-Stack Developer | 🤖 ML & AI Enthusiast 
+💻 Full-Stack Developer | 🤖 ML & AI Enthusiast | 🌐 Web Developer
 
 ---
 
