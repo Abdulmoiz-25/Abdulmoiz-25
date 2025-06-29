@@ -1,4 +1,11 @@
-# 💫 About Me:
+Hi, I'm Abdul Moiz Meer  
+Software Engineering Student @ PAF-IAST, Haripur  
+Software Developer | Full-Stack & ML Developer | Generative AI Explorer 
+
+## About Me  
+I'm passionate about building intelligent, secure, and impactful software systems.  
+With hands-on experience in machine learning, cloud microservices, and modern web development, I love combining practical skills with creative problem-solving — especially in the fields of healthcare AI, automation, and generative models.
+
 🔭 I’m currently working on Brain Tumor Segmentation with MedSAM-2 – implementing and evaluating segmentation performance on the BRATS 2019 dataset using open-source medical SAM models.<br><br>👯 I’m looking to collaborate on AI-Powered Crop Prediction System – combining machine learning and real-world datasets to forecast optimal crop yields and improve agricultural decisions.<br><br>🤝 I’m looking for help with fine-tuning voice cloning models (XTTS-v2 / Kokoro82M) and experimenting with generative AI for audio-based projects.<br><br>🌱 I’m currently learning Spring Cloud Microservices, Time Series Forecasting (ARIMA), Computer Vision using YOLOv11, and Voice Cloning with TTS models.<br><br>💬 Ask me about Streamlit app deployment, Gradio demos, Colab-based ML experiments, or anything around React, Spring Boot, or scikit-learn.<br><br>⚡ Fun fact: I love debugging late at night — my productivity peaks after midnight 🌙<br>
 
 
