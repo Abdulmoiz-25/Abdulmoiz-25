@@ -2,20 +2,20 @@
 
 🎓 Software Engineering Student @ PAF-IAST, Haripur
 
-💻 Full-Stack Developer | 🤖 ML & AI Enthusiast | 🌐 Web Developer
+💻 Full-Stack Developer | 🤖 ML & AI Enthusiast | 🌐 Web Developer | 📜 IBM Certified Scrum Master
 
 ---
 
 ## 🧠 About Me
 
 I'm passionate about building intelligent, secure, and impactful software.  
-With hands-on experience in machine learning, generative AI, and cloud-native development,  
+With hands-on experience in machine learning, generative AI, and agile project management,  
 I enjoy combining cutting-edge tools with creative thinking to solve real-world problems.
 
 
 ## 🚀 What I’m Up To
 
-🔭 I’m currently working on Brain Tumor Segmentation with MedSAM-2 – implementing and evaluating segmentation performance on the BRATS 2019 dataset using open-source medical SAM models.<br><br>👯 I’m looking to collaborate on AI-Powered Crop Prediction System – combining machine learning and real-world datasets to forecast optimal crop yields and improve agricultural decisions.<br><br>🤝 I’m looking for help with fine-tuning voice cloning models (XTTS-v2 / Kokoro82M) and experimenting with generative AI for audio-based projects.<br><br>🌱 I’m currently learning Spring Cloud Microservices, Time Series Forecasting (ARIMA), Computer Vision using YOLOv11, and Voice Cloning with TTS models.<br><br>💬 Ask me about Streamlit app deployment, Gradio demos, Colab-based ML experiments, or anything around React, Spring Boot, or scikit-learn.<br><br>⚡ Fun fact: I love debugging late at night — my productivity peaks after midnight 🌙<br>
+🔭 I’m currently working on deploying Machine Learning models (Random Forest, K-Means) using Streamlit Cloud and integrating model explainability with SHAP plots.<br><br>👯 I’m looking to collaborate on AI-Powered Crop Prediction System – combining machine learning and real-world datasets to forecast optimal crop yields and improve agricultural decisions.<br><br>🤝 I’m looking for help with fine-tuning voice cloning models (XTTS-v2 / Kokoro82M) and experimenting with generative AI for audio-based projects.<br><br>🌱 I’m currently learning Spring Cloud Microservices, CI/CD Pipeline automation, Time Series Forecasting (ARIMA), and Computer Vision using YOLOv11.<br><br>💬 Ask me about Scrum/Agile project management, Streamlit app deployment, Gradio demos, Colab-based ML experiments, or anything around React, Spring Boot, or scikit-learn.<br><br>⚡ Fun fact: I love debugging late at night — my productivity peaks after midnight 🌙<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/abdulmoiz__25)  
@@ -37,5 +37,3 @@ I enjoy combining cutting-edge tools with creative thinking to solve real-world 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdulmoiz-25&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
