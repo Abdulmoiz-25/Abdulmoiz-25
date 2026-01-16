@@ -61,11 +61,11 @@ I enjoy combining cutting-edge tools with creative thinking to solve real-world 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Abdulmoiz-25&theme=github_dark&show_icons=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdulmoiz-25&theme=github_dark&show_icons=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Abdulmoiz-25&theme=github_dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abdulmoiz-25&theme=github_dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmoiz-25&layout=compact&theme=github_dark)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Abdulmoiz-25&layout=compact&theme=github_dark)
 
 ---
 
