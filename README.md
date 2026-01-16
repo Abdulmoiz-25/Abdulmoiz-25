@@ -69,14 +69,7 @@ I enjoy combining cutting-edge tools with creative thinking to solve real-world 
 
 ---
 
-## 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=Abdulmoiz-25&theme=darkhub&no-frame=true&row=1)
-
----
-
 ## 📌 Featured Projects
-> *(Pin these repositories on your GitHub profile for maximum impact)*
 
 - 🌾 **AI-Powered Crop Prediction System**
 - 📊 **Streamlit ML Deployment Apps**
