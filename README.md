@@ -21,10 +21,11 @@ I enjoy combining cutting-edge tools with creative thinking to solve real-world 
 
 🤝 Experimenting with **voice cloning & generative audio AI** (XTTS-v2, Kokoro82M)  
 
-🌱 Learning **Spring Cloud Microservices**, **CI/CD pipelines**, **Time-Series Forecasting (ARIMA)**, and **Computer Vision (YOLO)**  
+🌱 Learning **Spring Cloud Microservices**, **CI/CD Pipelines**, **Time Series Forecasting (ARIMA)**, and **Computer Vision (YOLO)**  
 
 💬 Ask me about **Scrum / Agile**, Streamlit deployment, Gradio demos, ML pipelines, **React**, **Spring Boot**, or **scikit-learn**
 
+⚡ Fun fact: My productivity peaks after midnight 🌙
 
 ---
 
@@ -57,7 +58,6 @@ I enjoy combining cutting-edge tools with creative thinking to solve real-world 
 
 ## 📊 GitHub Stats
 
-
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdulmoiz-25&theme=github_dark&show_icons=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdulmoiz-25&theme=github_dark)
@@ -66,18 +66,12 @@ I enjoy combining cutting-edge tools with creative thinking to solve real-world 
 
 ---
 
-## 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=Abdulmoiz-25&theme=darkhub&no-frame=true&row=1)
-
----
-
 ## 📌 Featured Projects
 
 - 🌾 **AI-Powered Crop Prediction System**
-- 📊 **Streamlit ML Deployment Apps**
+- 📊 **Streamlit ML Deployment Applications**
 - 📈 **Ethereum Price Forecasting (ARIMA, LSTM, Prophet)**
-- 🧠 **Explainable AI with SHAP**
+- 🧠 **Explainable AI with SHAP & ML Pipelines**
 
 
 ---
