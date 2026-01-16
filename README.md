@@ -6,7 +6,7 @@
 ---
 
 # 💫 About Me:
-🔭 Deploying Machine Learning models (Random Forest, K-Means) using Streamlit Cloud and adding SHAP-based explainability  <br><br>👯 Collaborating on an AI-Powered Crop Prediction System using real-world agricultural datasets  <br><br>🤝 Experimenting with voice cloning & generative audio AI (XTTS-v2, Kokoro82M)  <br><br>🌱 Learning Spring Cloud Microservices, CI/CD Pipelines, Time Series Forecasting (ARIMA), and Computer Vision (YOLO)<br><br>💬 Ask me about Scrum / Agile, Streamlit deployment, Gradio demos, ML pipelines, React, Spring Boot, or scikit-learn<br><br>⚡ Fun fact: My productivity peaks after midnight 🌙
+🔭 Deploying Machine Learning models (Random Forest, K-Means) using Streamlit Cloud and adding SHAP-based explainability  <br><br>👯 Collaborating on an AI-Powered Crop Prediction System using real-world agricultural datasets  <br><br>🤝 Experimenting with voice cloning & generative audio AI (XTTS-v2, Kokoro82M)  <br><br>🌱 Learning Spring Cloud Microservices, CI/CD Pipelines, Time Series Forecasting (ARIMA), and Computer Vision (YOLO)<br><br>💬 Ask me about Scrum / Agile, Streamlit deployment, Gradio demos, ML pipelines, React, Spring Boot, or scikit-learn<br><br>
 
 
 ## 🌐 Socials:
